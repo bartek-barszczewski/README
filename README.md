@@ -19,7 +19,7 @@ Although I have been programming commercially for only two years, programming ha
 I love exploring various technologies, and my main goal for the future is to work in the field of cybersecurity.
 
 
-<img align="left" height="350" src="https://c.tenor.com/pPKOYQpTO8AAAAAd/tenor.gif"  />
+<img align="left" height="350" src="https://github.com/bartek-barszczewski/bartek-barszczewski/blob/gifs/gifs/monkey.gif?raw=true"  />
 
 
 # 
