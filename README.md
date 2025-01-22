@@ -42,23 +42,21 @@ Furthermore, my responsibilities include reacting to penetration testing reports
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
   <img width="12" />
-<img src="  https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="30" alt="flask logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="30" alt="flask logo"  />
   <img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg" height="30" alt="symfony logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg" height="30" alt="symfony logo"  />
   <img width="12" />
-<img src="https://cdn.worldvectorlogo.com/logos/t-sql.svg" height="30" alt="transact-sql logo"  />
-
+  <img src="https://cdn.worldvectorlogo.com/logos/t-sql.svg" height="30" alt="transact-sql logo"  />
 </div>
 
 ### Contact:
-
 
 <div align="left">
   <a href="https://www.linkedin.com/in/bart%C5%82omiej-barszczewski-full-stack/" target="_blank">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="45" alt="linkedin logo"  />
   </a>
   <a href="https://buymeacoffee.com/sphinnx" target="_blank">
-	  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMW0zeTlqeGoyZm13MW01emNyeGJlOG9ycWt4dmVyNzBieHd5MzAyYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/TDQOtnWgsBx99cNoyH/giphy.gif" height="45" alt="buymeacoffee logo" />
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMW0zeTlqeGoyZm13MW01emNyeGJlOG9ycWt4dmVyNzBieHd5MzAyYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/TDQOtnWgsBx99cNoyH/giphy.gif" height="45" alt="buymeacoffee logo" />
   </a>
 </div>
 
