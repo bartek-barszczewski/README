@@ -1,16 +1,6 @@
 <h2 align="left">Hi 👋! My name is Bart and I am a full stack developer</h2>
 
-<picture>
-  <source 
-    media="(prefers-color-scheme: dark)" 
-    srcset="[https://raw.githubusercontent.com/bartek-barszczewski/snake-game/output/dist/github-contribution-grid-snake-dark.svg()](https://raw.githubusercontent.com/bartek-barszczewski/bartek-barszczewski/refs/heads/output/github-contribution-grid-snake-dark.svg)" />
-  <source 
-    media="(prefers-color-scheme: light)" 
-    srcset="[https://raw.githubusercontent.com/bartek-barszczewski/snake-game/output/dist/github-contribution-grid-snake-dark.svg()](https://raw.githubusercontent.com/bartek-barszczewski/bartek-barszczewski/refs/heads/output/github-contribution-grid-snake-dark.svg)" />
-  <img 
-    alt="github-snake" 
-    src="[https://raw.githubusercontent.com/bartek-barszczewski/snake-game/output/dist/github-contribution-grid-snake-dark.svg()](https://raw.githubusercontent.com/bartek-barszczewski/bartek-barszczewski/refs/heads/output/github-contribution-grid-snake-dark.svg)" />
-</picture>
+[https://raw.githubusercontent.com/bartek-barszczewski/snake-game/output/dist/github-contribution-grid-snake-dark.svg()](https://raw.githubusercontent.com/bartek-barszczewski/bartek-barszczewski/refs/heads/output/github-contribution-grid-snake-dark.svg)
 
 ## About me:
 I have been working as a Full Stack Developer for 2 years, creating software from scratch to support warehouse processes—and having a great time doing it! Currently, I am pursuing a degree in Computer Science. Have any questions? Feel free to reach out!
