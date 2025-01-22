@@ -20,7 +20,16 @@ I love exploring various technologies, and my main goal for the future is to wor
 <br>
 <br>
 <br>
-<img align="left" height="350" src="https://github.com/bartek-barszczewski/bartek-barszczewski/blob/gifs/gifs/monkey.gif?raw=true"  />
+<img align="left" height="150" src="https://github.com/bartek-barszczewski/bartek-barszczewski/blob/gifs/gifs/monkey.gif?raw=true"  />
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 <br>
 <br>
 <br>
