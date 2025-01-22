@@ -1,5 +1,4 @@
-![develper](https://github.com/bartek-barszczewski/bartek-barszczewski/blob/gifs/gifs/monkey.gif?raw=true)
-
+![Monkey Developer](https://github.com/bartek-barszczewski/bartek-barszczewski/blob/gifs/gifs/monkey.gif?raw=true)
 <h2 align="left">Hi 👋! My name is Bart and I am a full stack developer</h2>
 
 <picture>
