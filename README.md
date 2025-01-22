@@ -1,4 +1,4 @@
-![programmer](https://github.com/bartek-barszczewski/bartek-barszczewski/blob/gifs/gifs/programmer.gif?raw=true)
+![programmer](https://github.com/bartek-barszczewski/bartek-barszczewski/blob/gifs/gifs/dev.gif?raw=true)
 <br/>
 
 <h1 align="left">Hi 👋! My name is Bart and I am a full stack developer</h1>
