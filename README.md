@@ -17,11 +17,13 @@ I have been working as a Full Stack Developer for 2 years, creating software fro
 
 Although I have been programming commercially for only two years, programming has been my passion for a long time.  
 I love exploring various technologies, and my main goal for the future is to work in the field of cybersecurity.
-
-
+<br>
+<br>
+<br>
 <img align="left" height="350" src="https://github.com/bartek-barszczewski/bartek-barszczewski/blob/gifs/gifs/monkey.gif?raw=true"  />
-
-
+<br>
+<br>
+<br>
 # 
 ## My experience:
 **Automation** - Using Python, I write automation scripts that process data and deliver results.
