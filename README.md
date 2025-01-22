@@ -6,6 +6,21 @@
 
 <h2 align="left">Hi 👋! My name is Bart and I am full stack developer</h2>
 
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+</picture>
+
 ## About me:
 I have been working as a Full Stack Developer for 2 years, creating software from scratch to support warehouse processes—and having a great time doing it! Currently, I am pursuing a degree in Computer Science. Have any questions? Feel free to reach out!
 
