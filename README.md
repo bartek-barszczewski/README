@@ -1,4 +1,7 @@
-<h2 align="left">Hi 👋! My name is Bart and I am a full stack developer</h2>
+![programmer](https://github.com/bartek-barszczewski/bartek-barszczewski/blob/gifs/gifs/dev.gif?raw=true)
+<br/>
+
+<h1 align="left">Hi 👋! My name is Bart and I am a full stack developer</h1>
 
 <picture>
   <source 
