@@ -23,7 +23,7 @@ I love exploring various technologies, and my main goal for the future is to wor
 
 
 # 
-## My experience:
+## Work experience:
 **Automation** - Using Python, I write automation scripts that process data and deliver results.
 
 **RemoteSupport** - A web application for scanners that supports work at a position where a person performs the role of a Supporter. The application allows ordering packages for specific workstations and monitoring the progress of these orders.
